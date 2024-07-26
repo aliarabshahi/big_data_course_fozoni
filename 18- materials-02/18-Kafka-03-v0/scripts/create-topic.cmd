@@ -1,0 +1,1 @@
+kafka-topics.bat --create --bootstrap-server localhost:9092 --topic hello-streams --partitions 5 --replication-factor 3

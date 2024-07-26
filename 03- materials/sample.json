@@ -1,0 +1,11 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "isStudent": false,
+    "languages": ["JavaScript", "Python", "Java"],
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "country": "USA"
+    }
+  }

@@ -1,0 +1,1 @@
+kafka-console-consumer.bat --topic hello-producer --from-beginning --bootstrap-server localhost:9092
