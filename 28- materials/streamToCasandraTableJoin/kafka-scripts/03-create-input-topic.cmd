@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\kafka-topics.bat --create --topic logins --bootstrap-server localhost:9092

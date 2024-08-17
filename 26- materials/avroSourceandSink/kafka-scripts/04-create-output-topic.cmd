@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\kafka-topics.bat --create --topic invoice-items --bootstrap-server localhost:9092

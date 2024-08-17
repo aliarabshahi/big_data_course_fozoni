@@ -1,0 +1,17 @@
+{
+    "InvoiceNumber": "91372973",
+    "CreatedTime": 1595688901219,
+    "StoreID": "STR8513",
+    "PosID": "POS163",
+    "CustomerType": "PRIME",
+    "PaymentMethod": "CARD",
+    "DeliveryType": "HOME-DELIVERY",
+    "City": "Shivapuri",
+    "State": "Madhya Pradesh",
+    "PinCode": "561012",
+    "ItemCode": "483",
+    "ItemDescription": "Teacups and saucers",
+    "ItemPrice": 1781.0,
+    "ItemQty": 1,
+    "TotalValue": 1781.0
+}

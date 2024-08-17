@@ -1,0 +1,10 @@
+---
+releases:
+
+  - name: firstchartrelease
+    chart: firstchart
+    installed: false
+
+  - name: customchart2release
+    chart: customchart2
+    installed: false   

@@ -1,0 +1,10 @@
+SETS32:{"CreatedTime": "2024-07-25 09:42:00","Reading": 36.2}
+SETS32:{"CreatedTime": "2024-07-25 09:54:00","Reading": 36.2}
+SETS32:{"CreatedTime": "2024-07-25 09:59:00","Reading": 36.5}
+SETS32:{"CreatedTime": "2024-07-25 10:04:00","Reading": 36.8}
+SETS32:{"CreatedTime": "2024-07-25 10:09:00","Reading": 36.2}
+SETS32:{"CreatedTime": "2024-07-25 10:14:00","Reading": 36.5}
+SETS32:{"CreatedTime": "2024-07-25 10:19:00","Reading": 36.3}
+SETS32:{"CreatedTime": "2024-07-25 10:24:00","Reading": 37.7}
+
+

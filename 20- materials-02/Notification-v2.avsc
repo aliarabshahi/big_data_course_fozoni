@@ -1,0 +1,20 @@
+{"namespace": "ir.mfozouni.types",
+  "type": "record",
+  "name": "Notification",
+  "fields": [
+    {"name": "InvoiceNumber", "type": ["null", "string"]},
+    {"name": "CustomerCardNo",  "type":["null", "string"]},
+    {"name": "TotalAmount",  "type": ["null", "double"]},
+    {"name": "AddedField", "type": ["null", "string"], 
+    "default": "default_value"}
+
+  ]
+}
+
+// When a field is added to a schema, if it doesn't have a default
+// value specified, the Schema Registry will consider the schema to
+// be incompatible with the previous version, as you encountered in the error message earlier.
+
+// By adding a "default" value, you're telling the Schema Registry that
+// this new field has a default value that can be used when processing
+// data that was produced with the older schema version.
